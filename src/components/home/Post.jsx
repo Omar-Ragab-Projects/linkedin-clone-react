@@ -44,7 +44,7 @@ export default function Post({ post, index }) {
               {login.user ? login.user.displayName : "Full Name"}
             </h3>
             <span className="text-gray-500 text-xs">
-              {JSON.parse(localStorage.getItem("user-information")).title
+              {JSON.parse(localStorage.getItem("user-information"))
                 ? JSON.parse(localStorage.getItem("user-information")).title
                 : "About"}
             </span>
