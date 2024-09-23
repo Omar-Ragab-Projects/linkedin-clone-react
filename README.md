@@ -1,5 +1,4 @@
-# Live: https://linked-in-clone-react.netlify.app/home
-# Password: ae608255f7dfe69a12a4cf9876f5cc42
+# Live: https://github-clone-98775.web.app/home
 
 # React + Vite
 
